@@ -80,14 +80,10 @@ Our Power BI dashboards enable underwriters and risk teams to evaluate borrower 
 
 ---
 
-### 🤝 Contributing
+## Overview Dashboard
 
-1. Fork this repo  
-2. Create a branch: `git checkout -b feature/…`  
-3. Commit changes: `git commit -m "…" `  
-4. Push branch & open a Pull Request  
+![Overview Dashboard](images/Banking Risk Analytics.png)
 
----
 
 *© 2025 Akash Patel. All rights reserved.*  
 
