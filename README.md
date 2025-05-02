@@ -82,7 +82,7 @@ Our Power BI dashboards enable underwriters and risk teams to evaluate borrower 
 
 ## Overview Dashboard
 
-![Overview Dashboard](Banking Risk Analytics.png)
+![Overview Dashboard](banking_risk_analytics.png)
 
 
 *© 2025 Akash Patel. All rights reserved.*  
